@@ -1,8 +1,4 @@
-﻿#EXTM3U
-#EXTINF:0 group-title="ISLAMIC" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/02f80ef0-e262-4b63-a61b-19c4a4bbf297_180x180_madinalive.jpeg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/02f80ef0-e262-4b63-a61b-19c4a4bbf297_180x180_madinalive.jpeg" ,MADINA LIVE
-https://tvs1.aynaott.com/sunnahtv/tracks-v1a1/mono.m3u8?token=af6cf75c686425ef9c04880b41418f3c693a6c49-GiJ1jnPwxPC4vaXW-
-#EXTINF:0 group-title="ISLAMIC" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ac1bb7a4-7677-4f35-afc5-2ca62dd4dde3_180x180_Makkahlive.jpeg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ac1bb7a4-7677-4f35-afc5-2ca62dd4dde3_180x180_Makkahlive.jpeg" ,MAKKAH LIVE
-https://tvs1.aynaott.com/qurantv/tracks-v1a1/mono.m3u8?token=525870355c871dff1e84f4fb67b550e1f42d8d04-PqI3UQsEp36MrIH2-
+#EXTM3U
 #EXTINF:0 group-title="BANGLADESH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/031f5666-bb13-46a0-abed-78b9122d5e76_180x180_bf19e14b-eea7-4d4b-a0b2-a3ba76d2944c.png" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/031f5666-bb13-46a0-abed-78b9122d5e76_180x180_bf19e14b-eea7-4d4b-a0b2-a3ba76d2944c.png" ,ANANDA TV
 https://tvs1.aynaott.com/anandatv/tracks-v1a1/mono.m3u8?token=dc46d8e6d844344e1274ff9a9cb598327ea14fa5-m7rLtSxmALcj0TUr-
 #EXTINF:0 group-title="BANGLADESH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" ,ASIAN TV
@@ -83,14 +79,10 @@ https://tvs1.aynaott.com/animal_planet_hd/tracks-v1a1/mono.m3u8?token=5ca496ea98
 https://tvs1.aynaott.com/b4umusic/tracks-v1a1/mono.m3u8?token=3740e3db0ea4761a00ae1a0722dcc382daa49117-65wr3emxLUexAsFV-
 #EXTINF:0 group-title="INDIA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1ccbedf1-aa54-414b-aab0-7276085f02d3_180x180_Bangla-talkies.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1ccbedf1-aa54-414b-aab0-7276085f02d3_180x180_Bangla-talkies.jpg" ,BANGLA TALKIES
 https://tvs1.aynaott.com/BanglaTalkies/tracks-v1a1/mono.m3u8?token=c149f6bee6d75f96cb987fabff52b09f12623963-RGZzX8tOm0a3iDcJ-
-#EXTINF:0 group-title="KIDS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" ,CARTOON NETWORK
-https://tvs2.aynaott.com/cartoonnetwork/tracks-v1a1/mono.m3u8?token=021605c8cdd372bbd120751e4373995babcb09d9-7yNs4zIC87ox9SqJ-
 #EXTINF:0 group-title="INDIA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8bff83ca-d4d6-4018-aa96-67dc51926f68_180x180_ColorsHD.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8bff83ca-d4d6-4018-aa96-67dc51926f68_180x180_ColorsHD.jpg" ,COLORS HD
 https://tvs1.aynaott.com/ColorsHD/tracks-v1a1/mono.m3u8?token=10b3a1fc084aae89bdced7149216dc89e4bf3687-8fA9DIheggkmLSWM-
 #EXTINF:0 group-title="INDIA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" ,DISCOVERY HD
 https://tvs1.aynaott.com/discovery_hd/tracks-v1a1/mono.m3u8?token=c01816db58a6af1ec79291372d5b0ecc7facdfd4-kblJpavnCfLMmx9O-
-#EXTINF:0 group-title="KIDS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" ,DISCOVERY KIDS
-https://tvs1.aynaott.com/discovery_kids/tracks-v1a1/mono.m3u8?token=5cb90c5b36739ea4284b5ddd32da71125421f3a4-DX8fWs7foTCFwc3l-
 #EXTINF:0 group-title="INDIA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dcf6b676-d031-494b-a9e7-ab2b6cda341b_180x180_discovery_science.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dcf6b676-d031-494b-a9e7-ab2b6cda341b_180x180_discovery_science.jpg" ,DISCOVERY SCIENVE
 https://tvs1.aynaott.com/discovery_science/tracks-v1a1/mono.m3u8?token=501e2d8cb3284da847f719f5d36f7387207ef3c8-0vW18K6aZZfA65VK-
 #EXTINF:0 group-title="INDIA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d17be1e7-11c4-43a1-867b-7dd28f5b2206_180x180_discovery_turbo.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d17be1e7-11c4-43a1-867b-7dd28f5b2206_180x180_discovery_turbo.jpg" ,DISCOVERY TURBO
@@ -171,10 +163,20 @@ https://tvs1.aynaott.com/cnn/tracks-v1a1/mono.m3u8?token=0478e43e5cbe550c6375f65
 https://tvs1.aynaott.com/dwnews/tracks-v1a1/mono.m3u8?token=f5ab863ead1bb2767128877ebdc1c160b45b4fdf-2hPW47d2jcReUrk9-
 #EXTINF:0 group-title="INTERNATIONAL" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8250eb1a-8fad-49c4-aa58-f4ade024f8ac_180x180_NHK.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8250eb1a-8fad-49c4-aa58-f4ade024f8ac_180x180_NHK.jpg" ,NHK WORLD JAPAN
 https://tvs1.aynaott.com/nhkworld/tracks-v1a1/mono.m3u8?token=c65ee2dad64d07e87555f2459ec00ff259830232-WQ4xnbHMwURRjaBT-
-#EXTINF:0 group-title="KIDS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg" ,PBS KIDS
-https://tvs2.aynaott.com/pbskids/tracks-v1a1/mono.m3u8?token=285de650c727bede567d33f79903e9eda06341ee-m8Yek0o5IMzLMBi5-
 #EXTINF:0 group-title="INTERNATIONAL" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3c1364d9-36a7-4664-8a3a-f13c5a7db212_180x180_TRT.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3c1364d9-36a7-4664-8a3a-f13c5a7db212_180x180_TRT.jpg" ,TRT WORLD
 https://tvs1.aynaott.com/trtworld/tracks-v1a1/mono.m3u8?token=ca75ffc3f52ea07bf4c2310d5cf3dc92b6119047-gg1OJbKglKwO9Zr9-
+#EXTINF:0 group-title="INTERNATIONAL" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e11861ab-2e48-4e53-a2ee-3c8e783fd73e_180x180_Wion.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e11861ab-2e48-4e53-a2ee-3c8e783fd73e_180x180_Wion.jpg" ,WION
+https://tvs2.aynaott.com/wion/index.m3u8?token=0a40c93a43630482e6241e74addb9dea82c9f701-yV8X6S09EX4XM8Vc-
+#EXTINF:0 group-title="ISLAMIC" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/02f80ef0-e262-4b63-a61b-19c4a4bbf297_180x180_madinalive.jpeg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/02f80ef0-e262-4b63-a61b-19c4a4bbf297_180x180_madinalive.jpeg" ,MADINA LIVE
+https://tvs1.aynaott.com/sunnahtv/tracks-v1a1/mono.m3u8?token=af6cf75c686425ef9c04880b41418f3c693a6c49-GiJ1jnPwxPC4vaXW-
+#EXTINF:0 group-title="ISLAMIC" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ac1bb7a4-7677-4f35-afc5-2ca62dd4dde3_180x180_Makkahlive.jpeg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ac1bb7a4-7677-4f35-afc5-2ca62dd4dde3_180x180_Makkahlive.jpeg" ,MAKKAH LIVE
+https://tvs1.aynaott.com/qurantv/tracks-v1a1/mono.m3u8?token=525870355c871dff1e84f4fb67b550e1f42d8d04-PqI3UQsEp36MrIH2-
+#EXTINF:0 group-title="KIDS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" ,CARTOON NETWORK
+https://tvs2.aynaott.com/cartoonnetwork/tracks-v1a1/mono.m3u8?token=021605c8cdd372bbd120751e4373995babcb09d9-7yNs4zIC87ox9SqJ-
+#EXTINF:0 group-title="KIDS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" ,DISCOVERY KIDS
+https://tvs1.aynaott.com/discovery_kids/tracks-v1a1/mono.m3u8?token=5cb90c5b36739ea4284b5ddd32da71125421f3a4-DX8fWs7foTCFwc3l-
+#EXTINF:0 group-title="KIDS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg" ,PBS KIDS
+https://tvs2.aynaott.com/pbskids/tracks-v1a1/mono.m3u8?token=285de650c727bede567d33f79903e9eda06341ee-m8Yek0o5IMzLMBi5-
 #EXTINF:0 group-title="KOLKATA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7c428efd-1f33-4982-9717-c74e123dcfb3_180x180_ColorsBangla.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7c428efd-1f33-4982-9717-c74e123dcfb3_180x180_ColorsBangla.jpg" ,COLORS BANGLA
 https://tvs1.aynaott.com/ColorsBangla/tracks-v1a1/mono.m3u8?token=2bf34fe14c7b3b910ac45f5dd151c9108f2c887d-ixGr7MpGi6jk6aE1-
 #EXTINF:0 group-title="KOLKATA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" ,ZEE 24 GHANTA
