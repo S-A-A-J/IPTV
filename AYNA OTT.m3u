@@ -207,15 +207,3 @@ https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?token=3d64b30896e48a47fc29
 https://tvs1.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8?token=b5f6191b4322377e86ab2f269cf70e9ac8e43eb0-jIbcJRnUmakoGj8I-
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" ,T-SPORTS
 https://tvs2.aynaott.com/tsportshd/tracks-v1a1/index-1667566800-now.m3u8?token=52ca37390782aa5b130c1fb81816299cf939b369-xlfPxUfjS5vGNatX-
-#EXTINF:0 group-title="SPORTS" tvg-logo="http://ihub.live/uploads/tv_image/sm/ptv-sports.jpg" tvg-logo-small="http://ihub.live/uploads/tv_image/sm/ptv-sports.jpg" ,PTV SPORTS
-http://cdn.ihub.live:8082/j-PTV/tracks-v1a1/mono.m3u8?token=7d7c4c3ede8030fbc31d0441e7f79e2b45f5f181-6096dab48813644b66169c57ee04299b-
-#EXTINF:0 group-title="SPORTS" tvg-logo="http://tv2.ihub.live/img/logo/sports-1.jpg" tvg-logo-small="http://tv2.ihub.live/img/logo/sports-1.jpg" ,SPORTS 1
-http://103.213.238.85:8010/sports1/tracks-v1a1/mono.m3u8?token=3b72ae5b193fb1dc75b77f691e4ba79f59f003a8-1462b1d98ad1f0c46d2a54b62b9b9fbe-
-#EXTINF:0 group-title="SPORTS" tvg-logo="http://tv2.ihub.live/img/logo/sports-2.jpg" tvg-logo-small="http://tv2.ihub.live/img/logo/sports-2.jpg" ,SPORTS 2
-http://103.213.238.85:8010/sports2/tracks-v1a1/mono.m3u8?token=ba49464fc323b4eddd4392dd81067a88b5c1a25b-c296766d0a598c01dce6f0dfe27c5361-
-#EXTINF:0 group-title="SPORTS" tvg-logo="http://tv2.ihub.live/img/logo/sports-3.jpg" tvg-logo-small="http://tv2.ihub.live/img/logo/sports-3.jpg" ,SPORTS 3
-http://103.213.238.85:8010/sports3/tracks-v1a1/mono.m3u8?token=d07c2252193894ce83937b2733eacae3623d5ef8-5a6954d81dcd5f5a12eb76aab23787cd-
-#EXTINF:0 group-title="SPORTS" tvg-logo="http://tv2.ihub.live/img/logo/sports-4.jpg" tvg-logo-small="http://tv2.ihub.live/img/logo/sports-4.jpg" ,SPORTS 4
-http://103.213.238.85:8010/sports4/tracks-v1a1/mono.m3u8?token=5d55e528fd16214bbabee56343951aefe7c4e5e9-071544154f9817994fd731a54d3ae9c6-
-#EXTINF:0 group-title="SPORTS" tvg-logo="http://tv2.ihub.live/img/logo/sports-5.jpg" tvg-logo-small="http://tv2.ihub.live/img/logo/sports-5.jpg" ,SPORTS 5
-http://103.213.238.85:8010/sports5/tracks-v1a1/mono.m3u8?token=d5f32d2707420472b0067aaed58abb5502dbd242-c9b7d53673c3e7c3c882ce7182f5d44c-
