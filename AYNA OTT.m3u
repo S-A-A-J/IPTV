@@ -12,7 +12,7 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_360.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/index.m3u8
 
 #EXTINF:0 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png",T SPORTS
-http://30.30.30.38:8080/live/skyfeed1005/index.m3u8
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/index-1671339600-now.m3u8?hdnts=st%3D1671342014%7Eexp%3D1671372014%7Eacl%3D%2Ftsportshd%2F%2A%7Edata%3D103.156.238.106-WEB%7Ehmac%3D38d397f80077958d1532a5c08b271b0f5042236233d57e32c2b6510cce49c974
 
 #EXTINF:0 group-title="FIFA WORLD CUP 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png",GAZI TV
 http://30.30.30.38:8080/live/skyfeed1006/index.m3u8
