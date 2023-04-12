@@ -127,3 +127,28 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" ,Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:0 group-title="ডিসকভারি+" ,Discovery HD
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_20.m3u8
+#EXTINF:0 group-title="ডিসকভারি+" ,Discovrey Science
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+#EXTINF:0 group-title="ডিসকভারি+" ,Animal Planet
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_16.m3u8
+#EXTINF:0 group-title="ডিসকভারি+" ,TLC
+https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
+#EXTINF:0 group-title="ডিসকভারি+" ,Discovery Turbo
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
+#EXTINF:0 group-title="ডিসকভারি+" ,Discovery Investigatio
+https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_15.m3u8
+#EXTINF:0 group-title="ডিসকভারি+" ,Discovery MAX
+https://gdlmovies.tech/Discovery+/api/DMAX.m3u8
+#EXTINF:0 group-title="ডিসকভারি+" ,Discovey Travel
+https://food-dlvr-ott.akamaized.net/primary/3/76c422fdc309498c9e66920149d0c7c4/index_14.m3u8
+#EXTINF:0 group-title="ডিসকভারি+" ,Discovery Food
+https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/index_15.m3u8
+#EXTINF:0 group-title="ডিসকভারি+" ,Discovery Kids
+https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_21.m3u8
+#EXTINF:0 group-title="ডিসকভারি+" ,HGTV
+https://food-dlvr-ott.akamaized.net/primary/4/c20e615a33504bc7a227077cb102aef1/index_14.m3u8
+#EXTINF:0 group-title="ডিসকভারি+" ,Euro Sports
+https://food-dlvr-ott.akamaized.net/primary/2/39a7e16da8744ad7a3fbeecf7c6473ed/index_29.m3u8
+
