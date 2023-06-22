@@ -69,6 +69,8 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 
 #EXTINF:-1 group-title="আন্তর্জাতিক" tvg-logo="https://i.imgur.com/Mxm77nQ.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="আন্তর্জাতিক" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/250px-TRT_World_logo.svg.png",TRT World
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" ,SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
