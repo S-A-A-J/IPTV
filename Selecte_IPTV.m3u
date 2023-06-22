@@ -249,8 +249,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 //https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 //#EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1357-j5tdnxeo-v1/imageContent-1357-j5tdnxeo-m1.jpg",Disney Hindi
 //http://202.125.144.115:8000/play/a00h/index.m3u8
-//#EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://dl.dropbox.com/s/bk055soezukgi45/71120680.png",Ekhon Kolkata [IN]
-//http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8
+#EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://dl.dropbox.com/s/bk055soezukgi45/71120680.png",Ekhon Kolkata [IN]
+http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8
 
 #EXTINF:0 group-title="ডিসকভারি+" ,Discovrey Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
