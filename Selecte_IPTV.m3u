@@ -75,6 +75,9 @@ https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/250px-NDTV_247.svg.png",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/India_Today_TV_Channel_logo.jpg",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
 
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" ,SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
