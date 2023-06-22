@@ -67,12 +67,14 @@ http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="বাংলাদেশ" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg",ITV IPTV [BD]
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 
-#EXTINF:-1 group-title="আন্তর্জাতিক" tvg-logo="https://i.imgur.com/Mxm77nQ.png",Al Jazeera
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://i.imgur.com/Mxm77nQ.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="আন্তর্জাতিক" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/250px-TRT_World_logo.svg.png",TRT World
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/250px-TRT_World_logo.svg.png",TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:-1 group-title="আন্তর্জাতিক" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s104529_dark_360w_270h.png",CGTN News
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s104529_dark_360w_270h.png",CGTN News
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/250px-NDTV_247.svg.png",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" ,SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
