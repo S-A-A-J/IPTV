@@ -100,6 +100,8 @@ https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
 #EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" ,Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" ,FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="আন্তর্জাতিক" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -152,6 +154,10 @@ https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ফ্যাশান" ,Fashion TV
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ফ্যাশান" ,Fashion TV Midnight Secrets 🇺🇸
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ফ্যাশান" ,Fashion TV Paris 🇫🇷
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 
 
 #EXTINF:-group-title="ডকুমেন্টারি",Clarity 4K
