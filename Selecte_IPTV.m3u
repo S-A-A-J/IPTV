@@ -119,6 +119,8 @@ http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:-1 group-title="খেলাধুলা" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Ad_sport_2.jpg" ,AD Sports 2
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",Edge Sports
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="সিনেমা" tvg-logo="https://i.imgur.com/WjJ8MHC.png",Dubai One ARB
