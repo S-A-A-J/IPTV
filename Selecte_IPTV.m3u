@@ -83,6 +83,14 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://i.imgur.com/KYqVK91.png",AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://i.imgur.com/VBjM4HO.png",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://i.imgur.com/wyKc0nX.png",Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.live
 
 
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" ,SET HD
