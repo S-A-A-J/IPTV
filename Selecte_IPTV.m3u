@@ -90,6 +90,8 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://i.imgur.com/VBjM4HO.png",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" ,ZEE News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://i.imgur.com/wyKc0nX.png",Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://media.glassdoor.com/sql/144492/abc-news-squarelogo.png" ,ABC NEWS AUSTRALIA 🇦🇺
