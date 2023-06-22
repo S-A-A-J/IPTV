@@ -98,6 +98,10 @@ http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:-1 group-title="ইসলামিক" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
+#EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+
+
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" ,SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" ,Sony SAB HD
