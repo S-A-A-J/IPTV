@@ -131,6 +131,8 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1 group-title="সিনেমা" tvg-logo="https://w7.pngwing.com/pngs/93/276/png-transparent-american-horror-story-asylum-television-show-freak-show-american-horror-story-coven-others-miscellaneous-television-angle-thumbnail.png" ,American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="সিনেমা",Classic Movies Channel
+https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png",Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
