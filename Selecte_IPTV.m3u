@@ -95,7 +95,8 @@ http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.liv
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?fluxusfaith.m3u8
 #EXTINF:-1 group-title="ইসলামিক" tvg-logo="https://img.iptvmate.net/5e933b41b3bdf92f6965c700.png",Al Istiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-
+#EXTINF:-1 group-title="ইসলামিক" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png",Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" ,SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
