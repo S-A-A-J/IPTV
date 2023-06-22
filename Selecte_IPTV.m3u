@@ -143,6 +143,10 @@ https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="কার্টুন",WOW!TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
+#EXTINF:-1 group-title="কমেডি",Comedy Dynamics
+https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-group-title="ডকুমেন্টারি",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 
