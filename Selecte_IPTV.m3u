@@ -122,8 +122,12 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ইসলামিক" tvg-logo="https://www.istiqama.tv/public/assets/images/logo.png" ,Al Istiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:-1 group-title="ইসলামিক",K Sports
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="ইসলামিক" ,Madani Channel English
+https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/playlist.m3u8
+#EXTINF:-1 group-title="ইসলামিক" ,Madani Channel Urdu
+https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8
+#EXTINF:-1 group-title="ইসলামিক" Makkah Live
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/live-orgin/makkah.stream/chunks.m3u8
 
 
 #EXTINF:-1 group-title="খেলাধুলা" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" ,AD Sports 1
