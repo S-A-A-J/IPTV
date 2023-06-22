@@ -101,6 +101,11 @@ http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:-1 group-title="ইসলামিক" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
+#EXTINF:-1 group-title="সিনেমা" tvg-logo="https://i.imgur.com/WjJ8MHC.png",Dubai One ARB
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="সিনেমা" tvg-logo="https://i.imgur.com/0iklNh2.png",Groovy
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
