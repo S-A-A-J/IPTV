@@ -89,10 +89,17 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://i.imgur.com/wyKc0nX.png",Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://media.glassdoor.com/sql/144492/abc-news-squarelogo.png" ,ABC NEWS AUSTRALIA 🇦🇺
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://en.wikipedia.org/wiki/Ariana_Television_Network#/media/File:Ariana_television_logo.png" ,Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://icon2.cleanpng.com/20180515/ryw/kisspng-pakistan-geo-news-geo-tv-geo-super-television-5afaba0d184661.0725864715263810690994.jpg" ,ARY NEWS
+https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="আন্তর্জাতিক" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
+#EXTINF:-1 group-title="আন্তর্জাতিক" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ir-al-zahra-tv-4204-300x225.jpg" ,Al-Zahra TV Turkic (1080p)
+https://live.al-zahratv.com/live/playlist.m3u8
 
 #EXTINF:-1 group-title="ইসলামিক" tvg-logo="https://www.iipccanada.com/wp-content/uploads/2016/05/iipc_origin.jpg",IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?fluxusfaith.m3u8
@@ -100,6 +107,16 @@ https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:-1 group-title="ইসলামিক" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 group-title="ইসলামিক" tvg-logo="https://w7.pngwing.com/pngs/674/963/png-transparent-ahlulbayt-tv-television-channel-television-show-live-television-outlook-festival-television-text-trademark.png" ,Ahlulbayt TV (404p)
+http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ইসলামিক" tvg-logo="https://www.istiqama.tv/public/assets/images/logo.png" ,Al Istiqama TV
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+
+#EXTINF:-1 group-title="খেলাধুলা" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" ,AD Sports 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 group-title="খেলাধুলা" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Ad_sport_2.jpg" ,AD Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+
 
 #EXTINF:-1 group-title="সিনেমা" tvg-logo="https://i.imgur.com/WjJ8MHC.png",Dubai One ARB
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
@@ -109,6 +126,8 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 group-title="সিনেমা",СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 group-title="সিনেমা" tvg-logo="https://w7.pngwing.com/pngs/93/276/png-transparent-american-horror-story-asylum-television-show-freak-show-american-horror-story-coven-others-miscellaneous-television-angle-thumbnail.png" ,American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 group-title="কার্টুন" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png",Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
