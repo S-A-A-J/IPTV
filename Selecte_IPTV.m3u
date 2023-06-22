@@ -110,6 +110,8 @@ https://live.al-zahratv.com/live/playlist.m3u8
 
 #EXTINF:-1 group-title="ইসলামিক" ,Iqra Bangla
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
+#EXTINF:-1 group-title="ইসলামিক" ,Madani Bangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 group-title="ইসলামিক" tvg-logo="https://www.iipccanada.com/wp-content/uploads/2016/05/iipc_origin.jpg",IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?fluxusfaith.m3u8
 #EXTINF:-1 group-title="ইসলামিক" tvg-logo="https://img.iptvmate.net/5e933b41b3bdf92f6965c700.png",Al Istiqama TV
@@ -122,6 +124,7 @@ http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:-1 group-title="ইসলামিক",K Sports
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
 
 #EXTINF:-1 group-title="খেলাধুলা" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" ,AD Sports 1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
