@@ -102,6 +102,8 @@ https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" ,FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" ,Press TV (1080)
+https://live1.presstv.ir/live/presstv.m3u8
 
 #EXTINF:-1 group-title="আন্তর্জাতিক" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -165,6 +167,8 @@ https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1 group-title="কার্টুন",KidsFlix (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 group-title="কার্টুন",PBS Kids 68.2 (KETKY) (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 group-title="কমেডি",Comedy Dynamics
 https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
@@ -183,6 +187,12 @@ https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-group-title="ডকুমেন্টারি",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-group-title="ডকুমেন্টারি",Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-group-title="ডকুমেন্টারি",Qatar TV 2 (720p)
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-group-title="ডকুমেন্টারি",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?@i4e.com.bd
 
 
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png",9XM
