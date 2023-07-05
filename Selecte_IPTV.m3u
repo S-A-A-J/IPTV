@@ -196,6 +196,8 @@ https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="ডকুমেন্টারি" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ir-al-zahra-tv-4204-300x225.jpg" ,Al-Zahra TV Turkic (1080p)
 https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="ডকুমেন্টারি" tvg-logo="https://i.imgur.com/F90mpSa.png" ,La7- Italy
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
