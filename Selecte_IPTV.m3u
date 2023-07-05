@@ -105,11 +105,6 @@ https://live1.presstv.ir/live/presstv.m3u8
 #EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" ,TIMES24 TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/times24tv.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="আন্তর্জাতিক" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="আন্তর্জাতিক" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ir-al-zahra-tv-4204-300x225.jpg" ,Al-Zahra TV Turkic (1080p)
-https://live.al-zahratv.com/live/playlist.m3u8
-
 #EXTINF:-1 group-title="ইসলামিক" ,Iqra Bangla
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 #EXTINF:-1 group-title="ইসলামিক" ,Madani Bangla
@@ -183,21 +178,24 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 
 
-#EXTINF:-group-title="ডকুমেন্টারি",Clarity 4K
+#EXTINF:-1 group-title="ডকুমেন্টারি",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
-#EXTINF:-group-title="ডকুমেন্টারি",DW English
+#EXTINF:-1 group-title="ডকুমেন্টারি",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
-#EXTINF:-group-title="ডকুমেন্টারি",Love Nature 4K
+#EXTINF:-1 group-title="ডকুমেন্টারি",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-group-title="ডকুমেন্টারি",Nasa TV
+#EXTINF:-1 group-title="ডকুমেন্টারি",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-group-title="ডকুমেন্টারি",Qatar TV 2 (720p)
+#EXTINF:-1 group-title="ডকুমেন্টারি",Qatar TV 2 (720p)
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
-#EXTINF:-group-title="ডকুমেন্টারি",Red Bull TV
+#EXTINF:-1 group-title="ডকুমেন্টারি",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?@i4e.com.bd
-#EXTINF:-group-title="ডকুমেন্টারি" ,TBN 24 USA IPTV
+#EXTINF:-1 group-title="ডকুমেন্টারি" ,TBN 24 USA IPTV
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="ডকুমেন্টারি" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="ডকুমেন্টারি" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ir-al-zahra-tv-4204-300x225.jpg" ,Al-Zahra TV Turkic (1080p)
+https://live.al-zahratv.com/live/playlist.m3u8
 
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
@@ -210,25 +208,25 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://i.imgur.com/DKHUFVQ.png",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
-#EXTINF:0 group-title="ডিসকভারি+" ,Discovrey Science
+#EXTINF:-1 group-title="ডিসকভারি+" ,Discovrey Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
-#EXTINF:0 group-title="ডিসকভারি+" ,Animal Planet
+#EXTINF:-1 group-title="ডিসকভারি+" ,Animal Planet
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_16.m3u8
-#EXTINF:0 group-title="ডিসকভারি+" ,TLC
+#EXTINF:-1 group-title="ডিসকভারি+" ,TLC
 https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_16.m3u8
-#EXTINF:0 group-title="ডিসকভারি+" ,Discovery Turbo
+#EXTINF:-1 group-title="ডিসকভারি+" ,Discovery Turbo
 https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
-#EXTINF:0 group-title="ডিসকভারি+" ,Discovery Investigatio
+#EXTINF:-1 group-title="ডিসকভারি+" ,Discovery Investigatio
 https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_15.m3u8
-#EXTINF:0 group-title="ডিসকভারি+" ,Discovey Travel
+#EXTINF:-1 group-title="ডিসকভারি+" ,Discovey Travel
 https://food-dlvr-ott.akamaized.net/primary/3/76c422fdc309498c9e66920149d0c7c4/index_14.m3u8
-#EXTINF:0 group-title="ডিসকভারি+" ,Discovery Food
+#EXTINF:-1 group-title="ডিসকভারি+" ,Discovery Food
 https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/index_15.m3u8
-#EXTINF:0 group-title="ডিসকভারি+" ,Discovery Kids
+#EXTINF:-1 group-title="ডিসকভারি+" ,Discovery Kids
 https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_21.m3u8
-#EXTINF:0 group-title="ডিসকভারি+" ,HGTV
+#EXTINF:-1 group-title="ডিসকভারি+" ,HGTV
 https://food-dlvr-ott.akamaized.net/primary/4/c20e615a33504bc7a227077cb102aef1/index_14.m3u8
-#EXTINF:0 group-title="ডিসকভারি+" ,Euro Sports
+#EXTINF:-1 group-title="ডিসকভারি+" ,Euro Sports
 https://food-dlvr-ott.akamaized.net/primary/2/39a7e16da8744ad7a3fbeecf7c6473ed/index_29.m3u8
 
 
