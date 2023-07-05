@@ -70,7 +70,6 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 
 #EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ", NEWS24-japan
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
 #EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ", BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="আন্তর্জাতিক সংবাদ" tvg-logo="https://i.imgur.com/Mxm77nQ.png",Al Jazeera
@@ -179,6 +178,9 @@ https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ফ্যাশান" ,Fashion TV Paris 🇫🇷
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 group-title="কেনাকাটা" tvg-logo="https://i.imgur.com/rkdKa5a.png",Shop Channel-Japan
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 
 #EXTINF:-1 group-title="ডকুমেন্টারি",Clarity 4K
