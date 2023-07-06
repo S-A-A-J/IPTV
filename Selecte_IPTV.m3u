@@ -226,6 +226,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://i.imgur.com/DKHUFVQ.png",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="",TV9 BANGLA
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_480p/chunks.m3u8
 
 #EXTINF:-1 group-title="ডিসকভারি+" ,Discovrey Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
