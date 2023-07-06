@@ -160,7 +160,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37a
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
-
 #EXTINF:-1 group-title="কার্টুন" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png",Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 group-title="কার্টুন" tvg-logo="https://i.imgur.com/RzPOwqI.png",Spacetoon
@@ -177,6 +176,10 @@ http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 group-title="কার্টুন",PBS Kids 68.2 (KETKY) (720p)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="কার্টুন", DISNEY CHANNEL
+http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/321
+#EXTINF:-1 group-title="কার্টুন", DISNEY JR
+http://likea8bitboss.xyz:80/48373733gh/EKZWDVybqj/322
 
 #EXTINF:-1 group-title="কমেডি",Comedy Dynamics
 https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
