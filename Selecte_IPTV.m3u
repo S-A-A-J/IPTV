@@ -231,6 +231,10 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_480p/chunks.m3u8
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://static.bengali.news18.com/static-bengali/2020/03/bangla.png",NEWS18 BANGLA
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8?__hdnea__=st=1688606917~exp=1688693317~acl=/*~hmac=02a471af144356700cc2cbd212c6814b6a0c4d4c14b2a4c549f002ead2acd858
+#EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://bengali.cdn.zeenews.com/bengali/desktop/logo/24Ghanta_nav.png",Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg2MTEwMDZ9.NbYOYORTnR7D6nWmMGRDgAKothAyqNT8opzPjN-SJq0
+
+
 
 #EXTINF:-1 group-title="ডিসকভারি+" ,Discovrey Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
