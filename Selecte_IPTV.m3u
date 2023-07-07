@@ -229,6 +229,17 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 #EXTINF:-1 group-title="ডকুমেন্টারি" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" ,PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="ইণ্ডীয়া-কোলকাতা" tvg-logo="http://amrbd.com/assets/images/colorsbangla.jpg",Colors Bangla
+http://12.1.1.1:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=af73a9b7bbfd48206ca5a9896c96336d2a6bfcdc-750fd07fbe3f2b653ca8bc69512448f4-1688721445-1688710645
+#EXTINF:-1 group-title="ইণ্ডীয়া-কোলকাতা" tvg-logo="http://amrbd.com/assets/images/zeebanglacinema.jpg",ZEE Bangla Cinema
+http://12.1.1.1:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=ee391f2d7ee17932dfae49944b5df46c0ddfb286-c6384d17a5dd152f95b10864511031e3-1688721767-1688710967
+#EXTINF:-1 group-title="ইণ্ডীয়া-কোলকাতা" tvg-logo="http://amrbd.com/assets/images/sonyaath.jpg",Sony Aath
+http://12.1.1.1:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=faf24023c2529c9c085f23c529a7f68784b8438b-d64805e145bca895c1fdc24d323ef1be-1688721871-1688711071
+#EXTINF:-1 group-title="ইণ্ডীয়া-কোলকাতা" tvg-logo="http://amrbd.com/assets/images/Jalshamovieshd.jpg",Jalsha Movies
+http://12.1.1.1:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=6b7e64be63a76052901df8fd1add6ae72ac8a624-d3bda5e36d19940b72266dcb92a79ee8-1688721969-1688711169
+
+
+
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="",Boogle Bollywood
