@@ -166,6 +166,13 @@ https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="সিনেমা" tvg-logo="https://i.imgur.com/g8PCdh6.png",Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="সিনেমা (হিন্দি)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4kkDzrVrcaL8nnNHmXb_oR_u8P4qottTDO6aCBVIjGiRaAYHZLKemV-ArK83liX4hWDs_fTxNzxMGT1aYf5jYFGmTFOb52MzpjMczHq50DAQ9jFr7H6EL5_5nxC3AR3uiWC4j9ldVZ1R5tpZ7nUYyFQDA1aEZs_tQfBgUxjKo0xdoTPhWipvsb8q5/s500/b4u-kadak-tv-channel-logo-schedule-channel-number.jpg",B4U KADAK
+http://202.176.3.76:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="সিনেমা (হিন্দি)" tvg-logo="https://www.nicepng.com/png/full/359-3595110_b4u-movies-logo-b4u-movies-channel-logo.png",B4U Movies
+http://202.176.3.76:8000/play/a00d/index.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="কার্টুন" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png",Cartoon Network Arabic
@@ -243,6 +250,9 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_57
 
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://commons.wikimedia.org/wiki/File:B4U_Music_logo.png",B4U Music
+http://202.176.3.76:8000/play/a01u/index.m3u8
+
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 group-title="ইণ্ডীয়া" tvg-logo="https://dl.dropbox.com/s/bk055soezukgi45/71120680.png",Ekhon Kolkata [IN]
