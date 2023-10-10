@@ -1,7 +1,9 @@
 //------ JAHANGIR IPTV.M3U
 #EXTM3U
-#EXTINF:-1,*🏏🏏🏏Live Cricket (জাহাঙ্গীর) 🏏🏏🏏
+#EXTINF:-1,*🏏🏏🏏Live Cricket-01 (জাহাঙ্গীর) 🏏🏏🏏
 https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:-1,*🏏🏏🏏Live Cricket-02 (জাহাঙ্গীর) 🏏🏏🏏
+https://sportsleading.online/live/stream_e2.m3u8
 
 #EXTINF:-1,STAR SPORTS 1 (4K).
 http://humiptv.live:8080/live/689545/689545/98864.ts
