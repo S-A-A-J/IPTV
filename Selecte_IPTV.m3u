@@ -199,12 +199,9 @@ https://tvs1.aynaott.com/news24/tracks-v1a1/mono.m3u8?hdnts=st=1698565510~exp=16
 https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8?hdnts=st=1698565618~exp=1698608818~acl=/*~data=45.61.146.183-WEB~hmac=5973ca65efc676c8019fb81b90c2075cd31670909bcf1c9076ba3d824a5d4ccc
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" ,Channel 24
-https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8?hdnts=st=1698565618~exp=1698608818~acl=/*~data=45.61.146.183-WEB~hmac=5973ca65efc676c8019fb81b90c2075cd31670909bcf1c9076ba3d824a5d4ccc
+https://tvs1.aynaott.com/channel24/tracks-v1a1/mono.m3u8?hdnts=st=1698577408~exp=1698620608~acl=/*~data=45.61.146.183-WEB~hmac=7fe2c4d4a135e27cb84fdd110aa8f1478863b19b882601e179f1d07abafa4fcb
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" ,Somoy News
-https://tvs1.aynaott.com/somoytv/tracks-v1a1/mono.m3u8?hdnts=st=1698569678~exp=1698612878~acl=/*~data=45.61.146.183-WEB~hmac=5e382334378b58f1b816157e5e6dd6218bcffd3e7a751f6d7be4befa2b746386
-
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" ,ATN News
 https://tvs1.aynaott.com/somoytv/tracks-v1a1/mono.m3u8?hdnts=st=1698569678~exp=1698612878~acl=/*~data=45.61.146.183-WEB~hmac=5e382334378b58f1b816157e5e6dd6218bcffd3e7a751f6d7be4befa2b746386
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" ,ATN News
@@ -238,7 +235,7 @@ https://tvs1.aynaott.com/anandatv/tracks-v1a1/mono.m3u8?hdnts=st=1698573962~exp=
 https://tvs1.aynaott.com/nexustv/tracks-v1a1/mono.m3u8?hdnts=st=1698574054~exp=1698617254~acl=/*~data=45.61.146.183-WEB~hmac=b586b0324fad7e42e490da4a6aa49f71706eddfd2d639bfe3caea8ae23bfe20f
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/232/logo/240x240/mobile_logo_731969001673183522.png" ,SA TV
-https://tvs1.aynaott.com/satv/tracks-v1a1/mono.m3u8?hdnts=st=1698574104~exp=1698617304~acl=/*~data=45.61.146.183-WEB~hmac=a224c037437c4ff8a18fc0accdaa8984845bdcbd0037489109e6da6c0f7b9ea9
+https://tvs1.aynaott.com/satv/tracks-v1a1/mono.m3u8?hdnts=st=1698577527~exp=1698620727~acl=/*~data=45.61.146.183-WEB~hmac=79fa2cb21d23c9cf07da355d6ec4df6b11ff061124592f048db796b8a98ed3f1
 
 
 
