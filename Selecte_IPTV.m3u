@@ -184,28 +184,44 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="FASHION" ,Demand Africa
 https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
+
+//------BANGLADESH
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" ,BTV WORLD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+//https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+https://tvs1.aynaott.com/btv_world/tracks-v1a1/mono.m3u8?hdnts=st=1698564381~exp=1698607581~acl=/*~data=45.61.146.183-WEB~hmac=357c0d59a4264bb18afdecb23cf7e0f6c2df7a4fb0cba1ee4f335be25a049bc2
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_bangla.png" ,ATN BANGLA
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" ,RTV HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+//https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+https://tvs2.aynaott.com/atnbangla/tracks-v1a1/mono.m3u8?hdnts=st=1698564442~exp=1698607642~acl=/*~data=45.61.146.183-WEB~hmac=0a1a92c27df20ca7a1ad3558dba0f88840d6c987fc99dd59b32afad0c867d29a
+
+//#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" ,RTV HD
+//https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" ,BOISHAKHI TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+//https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+https://tvs1.aynaott.com/boishakhitv/tracks-v1a1/mono.m3u8?hdnts=st=1698564570~exp=1698607770~acl=/*~data=45.61.146.183-WEB~hmac=54850a31d0058c811ff0e48750f669a2025364559507bb5eb9759707c2dc0de6
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dl.dropbox.com/s/qx0fxyv7rdx2uwi/bangla_vision.png" ,BANGLA VISION
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+//https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+https://tvs2.aynaott.com/banglavision/tracks-v1a1/mono.m3u8?hdnts=st=1698564634~exp=1698607834~acl=/*~data=45.61.146.183-WEB~hmac=79b0628f2c269551a7584a7cdf4b07cbda6e4c55e6113ebefa82a19ef88ce2e5
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" ,MY TV HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+//https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+https://tvs1.aynaott.com/mytv/tracks-v1a1/mono.m3u8?hdnts=st=1698564682~exp=1698607882~acl=/*~data=45.61.146.183-WEB~hmac=c7c6f12765405fc5e1dda5a9e4d2b9a027242c11859a000230a9e75b3c997e11
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dl.dropbox.com/s/avuaf3stbx17d41/asian_tv_bd.png" ,ASIAN TV HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+//https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+https://tvs1.aynaott.com/asiantv/tracks-v1a1/mono.m3u8?hdnts=st=1698564734~exp=1698607934~acl=/*~data=45.61.146.183-WEB~hmac=4fc88cc78154b8929262f41963a50aa75e8148169fc087794994df5da88d375a
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" ,BANGLA TV HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+//https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+https://tvs1.aynaott.com/banglatv/tracks-v1a1/mono.m3u8?hdnts=st=1698564763~exp=1698607963~acl=/*~data=45.61.146.183-WEB~hmac=7ac7192d95229f454f1d1d25e530cedf9676ea403ce7ce63e6bf58b9c6789f18
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" ,ATN NEWS
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" ,INDEPENDENT TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+//https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+https://tvs1.aynaott.com/atnnews/tracks-v1a1/mono.m3u8?hdnts=st=1698564803~exp=1698608003~acl=/*~data=45.61.146.183-WEB~hmac=c2493994f2379b8d7fac626bafe0de4668fb4ff6a1015778952e179522c09d60
+
+//#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" ,INDEPENDENT TV
+//https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" ,CHANNEL 24 HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+//https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+https://tvs1.aynaott.com/channel24/tracks-v1a1/mono.m3u8?hdnts=st=1698564865~exp=1698608065~acl=/*~data=45.61.146.183-WEB~hmac=4027cdbc965a9c8bea408a23204ec8a032c01caf81fd661c61b0514f7ddebb0e
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" ,JAMUNA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://pcdn1.jagobd.com/images/m-7evtae1648973625682.jpg" ,JAGO NEWS
