@@ -22,7 +22,7 @@ https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
 https://sports.yunyingtiandi.com/live/m32555351/playlist.m3u8
 
 //------AYNAOTT-BANGLADESHI
-#EXTINF:-1 group-title="AYNAOTT-AYNAOTT-BANGLADESH" tvg-logo="https://iqra.tv/wp-content/uploads/2022/07/Iqra-Logo-PNG.jpg" ,Iqra Bangla TV
+#EXTINF:-1 group-title="AYNAOTT-BANGLADESH" tvg-logo="https://iqra.tv/wp-content/uploads/2022/07/Iqra-Logo-PNG.jpg" ,Iqra Bangla TV
 https://tvs1.aynaott.com/btv_world/tracks-v1a1/mono.m3u8?hdnts=st=1698564381~exp=1698607581~acl=/*~data=45.61.146.183-WEB~hmac=357c0d59a4264bb18afdecb23cf7e0f6c2df7a4fb0cba1ee4f335be25a049bc2
 
 #EXTINF:-1 group-title="AYNAOTT-BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png" ,Global TV
