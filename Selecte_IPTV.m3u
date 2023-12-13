@@ -38,7 +38,7 @@ https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8?hdnts=st=1698656465~exp=1
 https://tvs1.aynaott.com/channel24/tracks-v1a1/mono.m3u8?hdnts=st=1698656481~exp=1698699681~acl=/*~data=45.61.146.183-WEB~hmac=894c69cb9dd873b66ca472503ae204f6f436af80deb334fd95b76c8804e5289d
 
 #EXTINF:-1 group-title="AYNAOTT-BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" ,Somoy News
-https://tvs1.aynaott.com/somoytv/tracks-v1a1/mono.m3u8?hdnts=st=1698656505~exp=1698699705~acl=/*~data=45.61.146.183-WEB~hmac=97c8b8af1592069cda0dc670e2ec1df00608c9dd2cbfbf23a39004ae8e0803b5
+https://edge4.bioscopelive.com/hls/anonymous/bwpQGgxo14TK61cqjt6UgA/1702484737/live-somoy-news-tv.m3u8
 
 
 
@@ -141,7 +141,7 @@ https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.m3u8?hdnts=st=1698657378~exp=
 https://tvs1.aynaott.com/etv/tracks-v1a1/mono.m3u8?hdnts=st=1698641877~exp=1698685077~acl=/*~data=45.61.146.183-WEB~hmac=c79107d871f330cfe568b481401241199dede66d111c4c569dc22e9f339a80c9
 
 #EXTINF:-1 group-title="AYNAOTT-BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" ,Channel I
-https://tvs2.aynaott.com/channeli/tracks-v1a1/mono.m3u8?hdnts=st=1698657441~exp=1698700641~acl=/*~data=45.61.146.183-WEB~hmac=7c010940e3bb661c363f7ff19cef45da45c7bc77a01c2cd20f3d6a3623466397
+https://edge4.bioscopelive.com/hls/anonymous/KRCMPhiRoyF38xoaG0Xb5Q/1702484911/channel_i.m3u8
 
 #EXTINF:-1 group-title="AYNAOTT-BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" ,Bangla Vision
 https://tvs2.aynaott.com/banglavision/tracks-v1a1/mono.m3u8?hdnts=st=1698657459~exp=1698700659~acl=/*~data=45.61.146.183-WEB~hmac=2a5cf61932b89bca4099d59d03462176c2f819c1765405f0080f67dc98140396
